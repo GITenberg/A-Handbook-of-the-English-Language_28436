@@ -1,0 +1,28 @@
+_repo: A-Handbook-of-the-English-Language_28436
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latham, R. G. (Robert Gordon)
+    alias: Latham, Robert Gordon
+    birthdate: 1812
+    deathdate: 1888
+    gutenberg_agent_id: '33334'
+    url: http://www.gutenberg.org/2009/agents/33334
+description: ''
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Grammar'
+- !lcsh 'English language -- History'
+- !lcc 'PE'
+title: A Handbook of the English Language
+url: http://www.gutenberg.org/ebooks/28436
